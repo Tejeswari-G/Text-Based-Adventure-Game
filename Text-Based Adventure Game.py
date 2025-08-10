@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+#Use pip install -r requirements.txt to install all project dependencies in one step.
+
 import json
 import os
 
@@ -192,3 +195,4 @@ while True:
 
 
    
+
