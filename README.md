@@ -1,3 +1,7 @@
+pip install -r requirements.txt
+#Use pip install -r requirements.txt to install all project dependencies in one step.
+
+
 Text-Based Adventure Game 🎮
 A simple interactive console game built with Python. Players can explore different locations, collect and use items, and progress through a story.
 Includes a save/load system to continue gameplay later.
